@@ -14,6 +14,7 @@ class form2 extends React.Component {
                     <h1>Home Page<h1>
                     <p>Basic form validation</p>
                     <p>Hello World </p>
+                    <h>Headding</h>
 
                 </div>
             );
