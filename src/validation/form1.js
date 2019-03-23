@@ -5,7 +5,7 @@ class form1 extends React.Component {
     constructor(props) {
         super (props)
         this.state= {
-            name: '',
+            name: 'Ram',
             email: '',
             password: '',
         };
